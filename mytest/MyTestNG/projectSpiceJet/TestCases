@@ -1,0 +1,23 @@
+ Open URL www.spicejet.com
+ Verify Page Title and print it.
+ 
+ PAGE1-HomePage
+ Find number of links in MainContent
+ Find Number of links in Wrapper_footer
+ Find Hidden links in MainContent
+ Click all the links in Search-button-heading
+ Verify all the links and text in footer-copyright-text
+ Click Add-ons and list all the options.
+Verify tooltip text in elements - Check-In , Family and Friends
+
+Search flights: Round Trip,  Bangaluru- Delhi, Depart - 30/06, Return - 01/07,  1 Adult, Student
+Choose flights with lowest fare, and click continue
+fillUP passenger details
+
+Click Member Login
+Print messages in Marquee
+
+PAGE2-SignUP Page 
+Fill up the form and click signup
+ 
+  
