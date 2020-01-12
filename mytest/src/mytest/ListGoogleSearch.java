@@ -17,7 +17,7 @@ public class ListGoogleSearch {
 		driver.get("http://www.google.com");
 		driver.findElement(By.id("lst-ib")).sendKeys("further");
 
-		// create xpath using descendent method to select child method
+		// create xpath using descendent method to select child nodes
 		List<WebElement> list = driver.findElements(By.xpath("//ul[@role='listbox']//li/descendant::div[@class='sbqs_c']"));
 		int r = list.size();
 		for (int i = 0; i < r; i++) {
